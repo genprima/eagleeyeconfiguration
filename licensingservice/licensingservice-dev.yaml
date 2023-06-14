@@ -1,5 +1,5 @@
 example:
-  property: I AM THE DEV
+  property: I AM THE DEVELOPMENT
 spring:
   datasource:
     driverClassName: org.postgresql.Driver
